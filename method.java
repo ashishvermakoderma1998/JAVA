@@ -47,8 +47,8 @@ public static void main(String[] args){
     System.out.println("sum " + num1 + " and " + num2 + " is " + result);
 
     // ----------Create a method to subtract two numbers.----------
-    int num3 = 25;
-    int num4 = 15;
+    int num3 = 55;
+    int num4 = 25;
     int result2 = subtractNumbers(num3, num4);
     System.out.println("difference " + num3 + " and " + num4 + " is " + result2);
 
