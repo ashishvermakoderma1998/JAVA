@@ -40,6 +40,44 @@ for (int i = n2; i >= 1; i--){
 }
 
 
+// ------------pyramid----------------
+int n3 = 6;
+for (int i = 1; i <= n3; i++) {
+    for (int j = 1; j <= n3 - i; j++) {
+        System.out.print(" ");      
+}
+
+for (int j = 1; j <= i; j++) {
+    System.out.print(i + " ");
+}
+System.out.println();
+
+}
+// --------------Numer changing pyramid----------------
+int n4 = 4;
+int num = 1;
+for (int i = 1; i <= n; i++) {
+    for (int j = 1; j <= i; j++) {
+        System.out.print(num + " ");
+        num++;
+    }
+    System.out.println();
+}
+
+// --------------right angle triangle----------------
+int n5 = 5;
+for (int i = 1; i <= n5; i++) {
+    int val  = (i % 2 == 1) ? 0 : 1;
+    for (int j = 1; j <= i; j++) {
+        System.out.print(val + " ");
+        val = 1 - val;
+    }
+
+System.out.println();
+
+
+
+}
 
 
 
