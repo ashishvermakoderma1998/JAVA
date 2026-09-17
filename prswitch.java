@@ -24,13 +24,13 @@ public class prswitch {
             System.out.println("Better Luck Next Time");
             break;
          case 4:
-            System.out.println("You Won Motorola Phone"); 
+            System.out.println("You Won Ai Plus Phone"); 
             break;
          case 5:
             System.out.println("Better Luck Next Time");
             break;
          case 6:
-            System.out.println("You won Hp Laptop");
+            System.out.println("You won MacBook Laptop");
             break;
 
          default:
