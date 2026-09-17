@@ -30,7 +30,7 @@ public class prswitch {
             System.out.println("Better Luck Next Time");
             break;
          case 6:
-            System.out.println("You won MacBook ");
+            System.out.println("You won MacBook La ");
             break;
 
          default:
