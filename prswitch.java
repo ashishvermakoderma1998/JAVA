@@ -18,7 +18,7 @@ public class prswitch {
          System.out.println("Better Luck Next Time");
             break;
          case 2:
-            System.out.println("You Won Iphone 17");
+            System.out.println("You Won Iphone 18");
             break;
          case 3:
             System.out.println("Better Luck Next Time");
