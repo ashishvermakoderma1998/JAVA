@@ -190,7 +190,7 @@ public class scanner {
             //  Take two numbers from the user and print the larger of the two.
 
 
-            System.out.println("Enter First Number");
+            System.out.println("E First Number");
             int firstNumber1 = sc.nextInt();
             System.out.println("Enter Second Number");
             int secondNumber1 = sc.nextInt();
