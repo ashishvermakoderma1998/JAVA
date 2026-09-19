@@ -1,3 +1,8 @@
+/*Q1. Student Class
+Create a Student class with: name, age, course
+Create two student objects and display their details.
+Expected concepts: Class, Object, Instance Variables, Method*/
+
 class Student {
     String name;
     int age;
@@ -10,6 +15,12 @@ class Student {
             System.out.println();
         }
 }
+
+/*Q2. Car Class
+Create a Car class with:
+brand, model, price
+Create two different car objects and display their details.
+Expected concepts: Multiple objects from the same class.*/
 
 class Car {
     String brand;
@@ -42,6 +53,10 @@ public static void main(String[] args){
     s1.displayDetails();
     s2.displayDetails();
 
+
+   
+
+
     // First Car Object
     Car c1 = new Car();
     c1.brand= "Hyundai";
@@ -50,7 +65,7 @@ public static void main(String[] args){
 
     // Second Car Object
     Car c2 = new Car();
-    c2.brand="Mahindra";
+    c2.brand="TATA";
     c2.model="Scorpio";
     c2.price= 2000000;
 
