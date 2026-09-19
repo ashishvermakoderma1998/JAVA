@@ -66,7 +66,7 @@ public static void main(String[] args){
     // Second Car Object
     Car c2 = new Car();
     c2.brand="TATA";
-    c2.model="Safa";
+    c2.model="Safar";
     c2.price= 2000000;
 
     c1.displayDetails();
