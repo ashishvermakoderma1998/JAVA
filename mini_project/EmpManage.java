@@ -53,7 +53,7 @@ public class EmpManage {
         manager.name = sc.nextLine();
         manager.name = sc.nextLine();
         
-        System.out.println("Enter Manager Sa:");
+        System.out.println("Enter Manager Sal:");
         manager.salary = sc.nextDouble();
 
         developer.work();
