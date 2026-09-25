@@ -5,7 +5,7 @@ public class firstlevel {
         System.out.println(isLightOn);
 
         // ----------2------------
-        int marks = 65;
+        int marks = 44;
         boolean haspassed = marks >= 35;
         System.out.println(haspassed);
 
