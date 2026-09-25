@@ -2,7 +2,7 @@ public class method{
 
     // -------Create a method to print “Hello Java”--------
     public static void printMessage(){
-        System.out.println("Hello Wor");
+        System.out.println("Hello World");
     }
 
 // ---------Create a method to print your name.----------
