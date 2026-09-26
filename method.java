@@ -7,7 +7,7 @@ public class method{
 
 // ---------Create a method to print your name.----------
 public static void printName(){
-    System.out.println("My name is V");
+    System.out.println("My name is Vi");
 }
 // ----------------Create a method that accepts a name and prints a greeting.----------
 public static void greet(String name){
