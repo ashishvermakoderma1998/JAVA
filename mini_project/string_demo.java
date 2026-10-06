@@ -33,7 +33,7 @@ public String getCourse() {
 public class string_demo {
     public static void main(String[] args) {
 
-        Student S = new Student(10,"Vi", "Java");
+        Student S = new Student(10,"Vik", "Java");
         System.out.println(S.getId() + " " + S.getName() + " " + S.getCourse());
     }
 }
